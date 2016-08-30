@@ -1,0 +1,18 @@
+{
+    "name"          : "bind-generator",
+    "description"   : "Change the scope of a generator function",
+    "version"       : "1.0.0",
+    "author"        : "neolao <contact@neolao.com>",
+    "private"       : false,
+    "repository"    : "https://github.com/neolao/bind-generator",
+    "license"       : "MIT",
+    "main"          : "index.js",
+    "engines"       :
+    {
+        "node": ">= 5"
+    },
+    "scripts"       :
+    {
+        "test": "node --harmony test"
+    }
+}
